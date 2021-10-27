@@ -12,4 +12,4 @@ Ministerio de Educación, Cultura y Deporte. Encuesta de Hábitos y Deportivos e
 •	Personas que asistieron en el último año a un espectáculo deportivo según tipo de deporte por sexo, edad y situación personal.
 •	Personas que accedieron en el último año a algún espectáculo deportivo por medios audiovisuales (televisión, radio o Internet) por sexo, edad y situación personal.
 •	Personas que accedieron en el último año a algún espectáculo deportivo por medios audiovisuales (televisión, radio o Internet) según el tipo de deporte por sexo, edad y situación personal.
-Se usaron las librerías de pandas, numpy, matplotlib, plotly express.
+Se usaron las librerías de pandas, numpy, matplotlib, plotly express, seaborn.
